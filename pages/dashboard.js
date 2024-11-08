@@ -48,7 +48,7 @@ export default function Dashboard() {
         .map(([topic]) => topic)
     }
   
-    // Create a more structured CSV that includes main categories
+    // Create a more structured CSV that includes main categories.
     const csvRows = ['Category,Main Feature,Selected Item']
     
     // Add Core Features with their parent categories
