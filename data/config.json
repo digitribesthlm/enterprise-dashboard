@@ -1,0 +1,202 @@
+{
+  "title": "Microsoft Power Platform Core Features",
+  "description": "Complete overview of all 11 core platform features and their variations",
+  "coreFeatures": [
+    {
+      "id": 1,
+      "name": "Power Platform Training",
+      "variations": [
+        "Free Power Platform Courses",
+        "Power Platform Certification Training",
+        "Power Platform for Beginners",
+        "Power Platform Training for Business Users",
+        "Power Platform Training for IT Professionals",
+        "Power Platform Training Online",
+        "Power Platform Training Cost",
+        "Best Power Platform Training Providers",
+        "Power Platform Training Curriculum",
+        "Power Platform Training Videos"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Power Automate Workflow",
+      "variations": [
+        "Power Automate Examples",
+        "Power Automate Best Practices",
+        "Power Automate Templates",
+        "Power Automate Automation Ideas",
+        "Power Automate vs Zapier",
+        "Power Automate for Beginners",
+        "Power Automate for Business Process Automation",
+        "Power Automate for IT Automation",
+        "Power Automate for Marketing Automation",
+        "Power Automate Connectors"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Power BI Dashboard",
+      "variations": [
+        "Power BI Dashboard Design Best Practices",
+        "Power BI Dashboard Templates",
+        "Power BI Dashboard Examples",
+        "Create a Power BI Dashboard",
+        "Power BI Dashboard for Sales",
+        "Power BI Dashboard for Marketing",
+        "Power BI Dashboard for Finance",
+        "Power BI Dashboard for HR",
+        "Power BI Dashboard for Operations",
+        "Power BI Dashboard for Customer Service"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Power Apps Development",
+      "variations": [
+        "Power Apps Development Tutorial",
+        "Power Apps Development for Beginners",
+        "Power Apps Development Tools",
+        "Power Apps Development Best Practices",
+        "Power Apps Development Companies",
+        "Power Apps Development Jobs",
+        "Power Apps Developer Salary",
+        "Power Apps Development with Azure",
+        "Power Apps Mobile App Development",
+        "Power Apps for Business Applications"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Power Virtual Agents Chatbot",
+      "variations": [
+        "Power Virtual Agents Chatbot Tutorial",
+        "Power Virtual Agents Chatbot Examples",
+        "Power Virtual Agents Chatbot Best Practices",
+        "Power Virtual Agents for Customer Service",
+        "Power Virtual Agents for Marketing",
+        "Power Virtual Agents for HR",
+        "Power Virtual Agents for IT Helpdesk",
+        "Power Virtual Agents Integrations",
+        "Build a Power Virtual Agents Chatbot",
+        "Power Virtual Agents FAQs"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Power BI Reports",
+      "variations": [
+        "Power BI Report Design Best Practices",
+        "Power BI Report Templates",
+        "Power BI Report Examples",
+        "Create a Power BI Report",
+        "Power BI Report for Sales Analysis",
+        "Power BI Report for Marketing Analysis",
+        "Power BI Report for Financial Analysis",
+        "Power BI Report for HR Analytics",
+        "Power BI Report for Operations Analytics",
+        "Power BI Report for Customer Analytics"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Data Integration Power Platform",
+      "variations": [
+        "Power Platform Data Integration with SQL Server",
+        "Power Platform Data Integration with Azure Data Factory",
+        "Power Platform Data Integration with Excel",
+        "Power Platform Data Integration with Salesforce",
+        "Power Platform Data Integration with Google Sheets",
+        "Power Platform Data Integration with APIs",
+        "Power Platform Data Integration Best Practices",
+        "Power Platform Data Integration Tools",
+        "Power Platform Data Integration Scenarios",
+        "Power Platform Data Integration for Data Warehousing"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Power Platform Citizen Developer",
+      "variations": [
+        "Power Platform Citizen Developer Training",
+        "Power Platform Citizen Developer Toolkit",
+        "Power Platform Citizen Developer Best Practices",
+        "Power Platform Citizen Developer Success Stories",
+        "Power Platform Citizen Developer Community",
+        "Power Platform Citizen Developer Resources",
+        "Power Platform Citizen Developer Challenges",
+        "Power Platform Citizen Developer for Business Users",
+        "Power Platform Citizen Developer for Non-Tech Users",
+        "Power Platform Citizen Developer Enablement"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Low-Code Application Development",
+      "variations": [
+        "Low-Code Development Platforms Comparison",
+        "Low-Code Development for Business Applications",
+        "Low-Code Development for Mobile Apps",
+        "Low-Code Development for Web Apps",
+        "Low-Code Development for Automation",
+        "Low-Code Development for Citizen Developers",
+        "Low-Code Development for Enterprises",
+        "Low-Code Development for Startups",
+        "Low-Code Development Future",
+        "Benefits of Low-Code Development"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Power Platform Consulting Services",
+      "variations": [
+        "Power Platform Consulting Companies",
+        "Power Platform Consulting Services Pricing",
+        "Power Platform Consulting for Small Businesses",
+        "Power Platform Consulting for Enterprises",
+        "Power Platform Consulting for Specific Industries",
+        "Power Platform Consulting for Implementation",
+        "Power Platform Consulting for Training",
+        "Power Platform Consulting for Support",
+        "Power Platform Consulting for Migration",
+        "Power Platform Consulting for Optimization"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Power Platform Security & Governance",
+      "variations": [
+        "Power Platform Data Security",
+        "Power Platform Access Control",
+        "Power Platform Compliance",
+        "Power Platform Security Best Practices",
+        "Power Platform Security Audit",
+        "Power Platform Data Governance",
+        "Power Platform Security Standards",
+        "Power Platform Security Training",
+        "Power Platform Security Solutions",
+        "Power Platform Security for GDPR"
+      ]
+    }
+  ],
+  "otherCategories": {
+    "industryApplications": [
+      "Healthcare Solutions",
+      "Retail Analytics",
+      "Manufacturing Automation",
+      "Finance Reporting"
+    ],
+    "citiesAndTowns": [
+      "New York",
+      "San Francisco",
+      "London",
+      "Chicago"
+    ],
+    "advancedTopics": [
+      "AI & Machine Learning",
+      "Serverless Computing",
+      "Azure Integration",
+      "Developer Community"
+    ]
+  }
+}
