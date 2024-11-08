@@ -26,6 +26,3 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Tailwind
-postcss.config.js
-tailwind.config.js
