@@ -1,4 +1,4 @@
-// File: context/SelectionContext.js
+// File: context/SelectionContext.js .
 import { createContext, useContext, useState } from 'react';
 
 const SelectionContext = createContext();

@@ -1,4 +1,4 @@
-// File: pages/dashboard.js
+// File: pages/dashboard.js .
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import data from '../data/config.json'

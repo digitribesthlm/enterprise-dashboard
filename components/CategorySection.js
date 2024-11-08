@@ -1,4 +1,4 @@
-// Update CategorySection component:
+// Update CategorySection component:.
 // File: components/CategorySection.js
 import { useSelection } from '../context/SelectionContext';
 

@@ -1,4 +1,4 @@
-// File: components/FeatureCard.js
+// File: components/FeatureCard.js.
 import { useSelection } from '../context/SelectionContext';
 
 export default function FeatureCard({ feature = {} }) {
